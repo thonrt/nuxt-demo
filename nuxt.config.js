@@ -1,6 +1,6 @@
 /**
  * Nuxt.js 配置文件
- * TOKEN: c42f898440479b44be2e5eedd250ef4afdca1c51
+ * TOKEN: 9e4f3dde5f5585e870e7d79409ac6f7fadc1a42d
  */
 
 
