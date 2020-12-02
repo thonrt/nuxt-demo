@@ -56,8 +56,8 @@ module.exports = {
         }
     },
     server: {
-        host: "10.86.17.119",
-        port: 3010
+        host: "0.0.0.0",
+        port: 4010
     },
     // 注册插件
     plugins: [
