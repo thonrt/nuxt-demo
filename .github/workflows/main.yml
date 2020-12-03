@@ -54,9 +54,6 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           cd /home/nuxt-demo
-          npm install pm2 -g
-          npm list -g --depth=0
-          whereis pm2
           wget https://github.com/thonrt/nuxt-demo/releases/latest/download/release.tgz -O release.tgz
           tar zxvf release.tgz
           npm install --production
