@@ -19,7 +19,6 @@
         "dayjs": "^1.9.4",
         "js-cookie": "^2.2.1",
         "markdown-it": "^12.0.2",
-        "node-cmd": "^3.0.0",
         "nuxt": "^2.14.7"
     },
     "devDependencies": {
