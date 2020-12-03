@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "homepage": "https://thonrt.github.io/nuxt-demo",
     "scripts": {
         "dev": "nuxt",
         "build": "nuxt build",
